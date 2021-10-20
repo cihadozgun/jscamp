@@ -17,8 +17,8 @@ const euroDun = 11.2
 console.log(euroDun)
 
 //array
-//camelCasing
-//PascalCasing
+//camelCasing - ilk kelimenin ilk harfi küçük, ikinci kelimenin ilk harfi büyük
+//PascalCasing - ilk kelimenin ve ikinci kelimenin ilk harfi büyük
 
 let konutKredileri = ["Konut Kredisi", "Emlak Konut Kredisi","Kamu Konut Kredisi","Özel Konut Kredisi"]
 
